@@ -26,10 +26,11 @@ POST /api/pricing/calculate – Calculate fare
 POST /api/pricing/seed – Seed initial pricing rules
 
 🛠 Tech Stack
-Layer	        Tech
-Frontend	    React (Vite), Tailwind CSS, DaisyUI, React Icons, Framer Motion
-Backend	        Node.js, Express.js, MongoDB (Mongoose)
-Utilities	    Axios, Nodemon
+|Layer	      |Tech                                                           |
+|-------------|---------------------------------------------------------------|
+|Frontend	    |React (Vite), Tailwind CSS, DaisyUI, React Icons, Framer Motion|
+|Backend	    |Node.js, Express.js, MongoDB (Mongoose)                        |
+|Utilities	  |Axios, Nodemon                                                 |
 
 📦 Installation & Setup
 1. Clone the Repository
@@ -56,6 +57,7 @@ Ensure MongoDB is running locally or use MongoDB Atlas.
 ```bash
 cd server
 npm run dev
+```
 
 3. Start Frontend Client
 ```bash
