@@ -64,8 +64,6 @@ npm run dev
 cd ../client
 npm run dev
 ```
-Visit: http://localhost:5173
-
 📁 Project Structure
 ```css
 pricing-module/
