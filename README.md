@@ -35,7 +35,7 @@ POST /api/pricing/seed – Seed initial pricing rules
 📦 Installation & Setup
 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/pricing-module.git
+git clone https://github.com/durgeshpd/pricing-module.git
 cd pricing-module
 ```
 2. Install Dependencies
